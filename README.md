@@ -55,3 +55,5 @@ You are required to submit the following:
 * The URL to the deployed application
 
 * The URL to the GitHub repository
+
+mongodb+srv://Sjkm714:<password>@cluster0.d4v24.mongodb.net/<dbname>?retryWrites=true&w=majority
