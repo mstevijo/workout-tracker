@@ -26,7 +26,3 @@ The user should be able to:
 
 
 
-mongodb+srv://Sjkm714:<password>@cluster0.d4v24.mongodb.net/<dbname>?retryWrites=true&w=majority
-
-key: MONGODB_URI
-mongodb+srv://Sjkm714:Nyleatenten@cluster0.d4v24.mongodb.net/workout?retryWrites=true&w=majority
